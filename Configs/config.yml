@@ -5,10 +5,10 @@
 # ======================================================================================
 # NOTE: BOT_TOKEN & MONGO CLIENT DETAILS ARE STORED IN THE .env FILE!
 # The prefix for the bots commands
-Prefix: "!"
+Prefix: "+"
 
 # Set what the bot is currently playing
-bot_status_text: "[!] | Modern Levels"
+bot_status_text: "[+] | Emp Levels"
 
 # IDLE, DND, ONLINE, OFFLINE
 bot_activity: online
