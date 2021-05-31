@@ -28,7 +28,7 @@ xp_per_level: 100
 leaderboard_amount: 10
 
 # Sets the image that displays on the leaderboard embed
-leaderboard_image: "https://cdn.discordapp.com/attachments/812895798496591882/825363205853151252/ML_1.png"
+leaderboard_image: "http://www.floridacounselingcenters.com/wp-content/uploads/2018/10/11435153.jpg"
 
 # Sets aliases for the leaderboard command
 leaderboard_alias: ['lb', 'leader', 'rankings']
